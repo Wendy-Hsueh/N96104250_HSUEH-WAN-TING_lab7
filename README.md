@@ -1,5 +1,4 @@
-# N96104250_HSUEH-WAN-TING_lab7
-Tower defense game 
+# Tower defense game 
 =====
 Step.06 Finish the simple tower defence game
 -----
